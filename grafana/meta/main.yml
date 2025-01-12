@@ -1,0 +1,14 @@
+galaxy_info:
+  namespace: MIKANAZ
+  author: Mikhail Nazarian
+  role_name: grafana
+  description: Grafana role for Ubuntu
+  company: ITMO
+
+  license: BSD
+
+  min_ansible_version: 2.14.0
+
+  galaxy_tags: []
+
+dependencies: []

@@ -1,0 +1,13 @@
+galaxy_info:
+  role_name: prometheus
+  namespace: MIKANAZ
+  author: Mikhail Nazarian
+  description: Prometheus role for Ubuntu
+  company: ITMO
+  license: BSD
+
+  min_ansible_version: 2.14.0
+
+  galaxy_tags: []
+
+  dependencies: []
